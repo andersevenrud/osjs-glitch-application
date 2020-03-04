@@ -1,0 +1,15 @@
+{
+  "type": "application",
+  "singleton": true,
+  "name": "Glitch Applications",
+  "category": "utilities",
+  "title": {
+    "en_EN": "Glitch"
+  },
+  "description": {
+    "en_EN": "Run Glitch applications"
+  },
+  "files": [
+    "main.js"
+  ]
+}
